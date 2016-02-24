@@ -10,17 +10,17 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.7759857
 color:
-  saturation: 0.8115759
+  saturation: 0.4964158
   brandStrength: 0.8297491
-  lightness: 0.0556249
+  lightness: 0.3978495
   brandColors:
     - '#ACA390'
     - '#051415'
     - '#774B28'
     - '#ACA302'
     - '#D0D8F4'
-  rhythmicContrast: 0.02867384
+  rhythmicContrast: 0.4551971
+typography_spectrum: 0.7759857
 layout_spectrum: 0.9480287
 name: 'Shadowevol '
