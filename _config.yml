@@ -1,14 +1,26 @@
-layout_spectrum: 0.9480287
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.7759857
 color:
   saturation: 0.8115759
-  lightness: 0.0556249
   brandStrength: 0.8297491
+  lightness: 0.0556249
   brandColors:
     - '#ACA390'
     - '#051415'
     - '#774B28'
     - '#ACA302'
     - '#D0D8F4'
-  rhythmicContrast: 0.5845498
+  rhythmicContrast: 0.02867384
+layout_spectrum: 0.9480287
 name: 'Shadowevol '
