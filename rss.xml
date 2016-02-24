@@ -4,7 +4,7 @@
         <description><![CDATA[Shadowevol ]]></description>
         <link>https://thegrid.ai/shadowevol/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Feb 2016 15:22:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Feb 2016 17:12:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/shadowevol/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[AC]]></title>
@@ -12,13 +12,6 @@
             <link>urn:uuid:98319a5d-c4d7-4de9-aca0-08ea31b384ce</link>
             <guid isPermaLink="false">cc084b4f-8ea1-4f48-b149-3993fc0ab7df</guid>
             <pubDate>Wed, 24 Feb 2016 15:19:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Aldo]]></title>
-            <description><![CDATA[<article><h1>Aldo</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fc4865dabed1fe571cda1c590d29b95311e882cb.png"></article>]]></description>
-            <link>urn:uuid:d65158ff-703e-466a-8b26-9aa16fa2d745</link>
-            <guid isPermaLink="false">4ad7e099-13f4-4c28-8e89-dae541e47927</guid>
-            <pubDate>Wed, 24 Feb 2016 15:21:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
