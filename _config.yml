@@ -1,0 +1,14 @@
+layout_spectrum: 0.9480287
+typography_spectrum: 0.7759857
+color:
+  saturation: 0.8115759
+  lightness: 0.0556249
+  brandStrength: 0.8297491
+  brandColors:
+    - '#ACA390'
+    - '#051415'
+    - '#774B28'
+    - '#ACA302'
+    - '#D0D8F4'
+  rhythmicContrast: 0.5845498
+name: 'Shadowevol '
