@@ -1,3 +1,7 @@
+name: 'Shadowevol '
+favicon: null
+layout_spectrum: 0.9480287
+typography_spectrum: 0.75552
 collections:
   - index:
       path: /
@@ -10,17 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.7759857
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.2204301
-  brandStrength: 0.8297491
-  lightness: 0.8082438
   brandColors:
     - '#FE0000'
     - '#000000'
     - '#0ED4CD'
     - '#F4C00B'
     - '#CC02B2'
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.5
   rhythmicContrast: 0.40681
-layout_spectrum: 0.9480287
-name: 'Shadowevol '
+purpose: []
