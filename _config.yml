@@ -1,8 +1,7 @@
+name: 'Shadowevol '
+favicon: null
 layout_spectrum: 1
-opengraph:
-  image: null
-  type: null
-  appId: null
+typography_spectrum: 0.75552
 collections:
   - index:
       path: /
@@ -15,26 +14,28 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+title: Shadow Evol
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.75
-  brandStrength: 0.75
-  lightness: 0.3125
   brandColors:
     - '#FE0000'
     - '#000000'
     - '#0ED4CD'
     - '#F4C00B'
     - '#CC02B2'
+  brandStrength: 0.75
+  lightness: 0.3125
+  saturation: 0.75
   rhythmicContrast: 0.688172
-typography_spectrum: 0.75552
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: 'Shadowevol '
+purpose: []
