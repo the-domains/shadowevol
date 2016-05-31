@@ -1,4 +1,4 @@
-name: 'Shadowevol '
+name: 'Shadow Evol '
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.75552
@@ -34,8 +34,8 @@ color:
     - '#0ED4CD'
     - '#F4C00B'
     - '#CC02B2'
-  brandStrength: 0.75
-  lightness: 0.3125
-  saturation: 0.75
-  rhythmicContrast: 0.688172
+  brandStrength: 0.5
+  lightness: 0.625
+  saturation: 0.375
+  rhythmicContrast: 1
 purpose: []
