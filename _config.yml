@@ -1,41 +1,41 @@
-name: 'Shadow Evol '
-favicon: null
-layout_spectrum: 0.19099
-typography_spectrum: 0.75552
+title: Shadow Evol
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-title: Shadow Evol
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+    permalink:
+      path: '/:title/'
 color:
+  saturation: 0.375
+  brandStrength: 0.5
+  rhythmicContrast: 1
   brandColors:
     - '#FE0000'
     - '#000000'
     - '#0ED4CD'
     - '#F4C00B'
     - '#CC02B2'
-  brandStrength: 0.5
   lightness: 0.625
-  saturation: 0.375
-  rhythmicContrast: 1
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: 'Shadow Evol '
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.75552
+layout_spectrum: 0.546595
