@@ -1,6 +1,6 @@
 name: 'Shadow Evol '
 favicon: null
-layout_spectrum: 0.49959
+layout_spectrum: 1
 typography_spectrum: 0.85542
 collections:
   - index:
@@ -34,8 +34,8 @@ color:
     - '#0ED4CD'
     - '#F4C00B'
     - '#CC02B2'
-  brandStrength: 0.0625
+  brandStrength: 0.5
   lightness: 0.625
-  saturation: 0.3125
+  saturation: 0.5
   rhythmicContrast: 0.5
 purpose: []
